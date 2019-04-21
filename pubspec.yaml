@@ -1,0 +1,27 @@
+name: gesturebot
+description: A gesture controlled robot.
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sensors: 0.4.0+1
+  firebase_database: 2.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.otf
+          weight: 400
+        - asset: assets/fonts/Poppins-Light.otf
+          weight: 300
+        - asset: assets/fonts/Poppins-Bold.otf
+          weight: 700
