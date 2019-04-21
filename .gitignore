@@ -72,3 +72,4 @@
 
 android/app/google-services.json
 android/app/proguard-rules.pro
+python/KEYS.py
