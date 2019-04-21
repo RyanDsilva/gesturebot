@@ -4,8 +4,6 @@
 
 ## Tech Stack 👨‍💻
 
----
-
 - Python
 - Flutter and Dart
 - Firebase
