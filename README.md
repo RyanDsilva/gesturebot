@@ -7,3 +7,11 @@
 - Python
 - Flutter and Dart
 - Firebase
+
+## Circuit Diagram
+
+<img src="REPO_ASSETS/gesturebot.png" width="500">
+
+## Working
+
+<img src="REPO_ASSETS/gbot.gif">
