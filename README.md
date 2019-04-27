@@ -1,6 +1,6 @@
 # GestureBot 🤖
 
-> A gesture controlled robot built around a Raspberry Pi 3 and using mobile gyroscope sensors to recieve commands
+> A gesture controlled robot built around a Raspberry Pi 3 and using mobile accelerometer sensors to recieve commands
 
 ## Tech Stack 👨‍💻
 
@@ -10,7 +10,7 @@
 
 ## Circuit Diagram
 
-<img src="REPO_ASSETS/gesturebot.png" width="500">
+<img src="REPO_ASSETS/gesturebot.png" width="700">
 
 ## Working
 
