@@ -14,4 +14,4 @@
 
 ## Working
 
-<img src="REPO_ASSETS/gbot.gif">
+<img src="REPO_ASSETS/gbot.gif" width="200">
